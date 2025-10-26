@@ -18,7 +18,5 @@ dev_dependencies:
 topics:
   - system
   - command
-  - process
   - shell
   - testing
-  - mock
