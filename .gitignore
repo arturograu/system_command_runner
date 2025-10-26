@@ -1,0 +1,34 @@
+# Directories created by Dart tools
+.dart_tool/
+.pub/
+
+# Build output
+build/
+
+# Mapping files
+.packages
+
+# For packages (libraries) you generally do *not* commit pubspec.lock
+pubspec.lock
+
+# API documentation directory
+doc/api/
+
+# IDE / editor files
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# macOS / OS X
+.DS_Store
+
+# Other generated JS / Dart2JS output if relevant
+*.dart.js
+*.js_
+*.js.deps
+*.js.map
+
+# Tests
+coverage/
